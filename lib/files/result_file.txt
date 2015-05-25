@@ -1,0 +1,339 @@
+Player: dima
+Used 2 turns.
+Your result code is: [- - ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [++--]
+
+Player: dima
+Used 1 turns.
+Your result code is: [    ]
+
+Player: dim
+Used 2 turns.
+Your result code is: [-+--]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ -+ ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-- -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [   -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [- --]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-   ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ -+-]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+- -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ - -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ ---]
+
+Player: dima
+Used 1 turns.
+Your result code is: [--+-]
+
+Player: dima
+Used 1 turns.
+Your result code is: [    ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+--]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+-+-]
+
+Player: dima
+Used 1 turns.
+Your result code is: [  --]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ +  ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [--- ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [    ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [    ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+--]
+
+Player: dima
+Used 1 turns.
+Your result code is: [    ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [--+-]
+
+Player: dima
+Used 1 turns.
+Your result code is: [    ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [  - ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+ + ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-- -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ - +]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+- ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ - +]
+
+Player: dima
+Used 2 turns.
+Your result code is: [++- ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+-+]
+
+Player: dima
+Used 2 turns.
+Your result code is: [   +]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+- -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [- -+]
+
+Player: dima
+Used 1 turns.
+Your result code is: [  - ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+++]
+
+Player: dima
+Used 0 turns.
+Your result code is: [-+++]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ - -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-  -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ -  ]
+
+Player: dim
+Used 1 turns.
+Your result code is: [----]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ + -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+--]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+   ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-   ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [  - ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [  +-]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+-+]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+-+ ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+++ ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-- +]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-- -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [    ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ - +]
+
+Player: dima
+Used 1 turns.
+Your result code is: [  + ]
+
+Player: dima
+Used 2 turns.
+Your result code is: [-+ -]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+- ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+ --]
+
+Player: dima
+Used 1 turns.
+Your result code is: [    ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ -  ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ +--]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+  ]
+
+Player: 6
+Used 1 turns.
+Your result code is: [  --]
+
+Player: dima
+Used 1 turns.
+Your result code is: [----]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ ---]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-   ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ - +]
+
+Player: dima
+Used 1 turns.
+Your result code is: [  +-]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-++-]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+---]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+-  ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ -  ]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+--]
+
+Player: dima
+Used 1 turns.
+Your result code is: [ --+]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-- +]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+- +]
+
+Player: dima
+Used 2 turns.
+Your result code is: [    ]
+
+Player: dima
+Used 2 turns.
+Your result code is: [-+--]
+
+Player: dima
+Used 2 turns.
+Your result code is: [-+--]
+
+Player: dima
+Used 1 turns.
+Your result code is: [--+-]
+
+Player: dima
+Used 1 turns.
+Your result code is: [-+  ]
+
+Player: dima
+Used 2 turns.
+Your result code is: [ ---]
