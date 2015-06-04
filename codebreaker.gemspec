@@ -11,7 +11,6 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Codebreaker: it is logic game}
   spec.description   = %q{Codebreaker: it is logic game}
-  spec.homepage      = "No site."
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
