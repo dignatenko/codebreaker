@@ -10,20 +10,20 @@ describe Codebreaker::Compare do
     it "should return '++++'" do
       expect(@compare.compare_codes([1, 2, 3, 4]).join).to eq '++++'
     end
-    it "should return '+- +'" do
-      expect(@compare.compare_codes([1, 3, 5, 4]).join).to eq '+- +'
+    it "should return '++-'" do
+      expect(@compare.compare_codes([1, 3, 5, 4]).join).to eq '++-'
     end
-    it "should return '+--+'" do
-      expect(@compare.compare_codes([1, 1, 2, 4]).join).to eq '+--+'
+    it "should return '++-'" do
+      expect(@compare.compare_codes([1, 1, 2, 4]).join).to eq '++-'
     end
-    it "should return '    '" do
-      expect(@compare.compare_codes([6, 5, 6, 5]).join).to eq '    '
+    it "should return ''" do
+      expect(@compare.compare_codes([6, 5, 6, 5]).join).to eq ''
     end
-    it "should return ' -- '" do
-      expect(@compare.compare_codes([6, 3, 2, 5]).join).to eq ' -- '
+    it "should return '--'" do
+      expect(@compare.compare_codes([6, 3, 2, 5]).join).to eq '--'
     end
-    it "should return '---+'" do
-      expect(@compare.compare_codes([2, 3, 2, 4]).join).to eq '---+'
+    it "should return '+--'" do
+      expect(@compare.compare_codes([2, 3, 2, 4]).join).to eq '+--'
     end
     it "should return '----'" do
       expect(@compare.compare_codes([4, 3, 2, 1]).join).to eq '----'
@@ -31,11 +31,11 @@ describe Codebreaker::Compare do
     it "should return '++--'" do
       expect(@compare.compare_codes([1, 2, 4, 3]).join).to eq '++--'
     end
-    it "should return ' +- '" do
-      expect(@compare.compare_codes([6, 2, 4, 5]).join).to eq ' +- '
+    it "should return '+-'" do
+      expect(@compare.compare_codes([6, 2, 4, 5]).join).to eq '+-'
     end
-    it "should return '-  -'" do
-      expect(@compare.compare_codes([2, 5, 6, 1]).join).to eq '-  -'
+    it "should return '--'" do
+      expect(@compare.compare_codes([2, 5, 6, 1]).join).to eq '--'
     end
   end
 
