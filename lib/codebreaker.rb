@@ -1,5 +1,5 @@
 Dir["./codebreaker/*.rb"].each {|file| require file }
 
 module Codebreaker
-  Menu.new.main
+  # Menu.new.main
 end

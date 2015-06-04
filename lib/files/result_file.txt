@@ -23,3 +23,7 @@ Your result code is: [-]
 Player: dima
 Used 2 turns.
 Your result code is: [++--]
+
+Player: dima
+Used 1 turns.
+Your result code is: [+]
